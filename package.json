@@ -1,0 +1,1 @@
+{"description":"Server aktivasi pembayaran otomatis (Midtrans QRIS resmi) untuk aplikasi Correction Task (developer: Ardico Rianto). Tanpa dependensi eksternal.","engines":{"node":">=18"},"license":"UNLICENSED","main":"server.js","name":"correction-task-activation-server","private":true,"scripts":{"start":"node server.js"},"version":"0.2.0"}
